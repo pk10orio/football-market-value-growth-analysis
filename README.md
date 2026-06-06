@@ -193,4 +193,3 @@ The methodology attributes value change to the club associated with each valuati
 The analysis highlights clubs that consistently appeared in player value growth periods between 2013 and 2023. Clubs such as Ajax Amsterdam, Red Bull Salzburg, RB Leipzig, Sporting CP, Benfica, and Porto stand out due to their ability to generate significant market value across multiple players.
 
 This project demonstrates exploratory data analysis, data cleaning, aggregation, metric design, and visualization using Python.
-
